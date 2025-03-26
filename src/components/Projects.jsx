@@ -38,7 +38,7 @@ const Projects = () => {
         'Created a clean, minimalist design with optimal user experience',
         'Optimized for performance and SEO best practices'
       ],
-      githubLink: 'https://github.com/yourusername/portfolio',
+      githubLink: 'https://github.com/Karthika506/my-portfolio',
       liveLink: ''
     }
   ];
